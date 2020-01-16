@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<urls>
+	<url>http://api.openweathermap.org/data/2.5/weather?q=London,uk</url>
+	<url>http://api.openweathermap.org/data/2.5/weather?q=Kudepsta,ru</url>	
+	<url>http://api.openweathermap.org/data/2.5/weather?q=Williston,za</url>
+	<url>http://api.openweathermap.org/data/2.5/weather?q=Koffiefontein,za</url>
+	<url>http://api.openweathermap.org/data/2.5/weather?q=Xiaoshi,cn</url>
+	<url>http://api.openweathermap.org/data/2.5/weather?q=Usera,es</url>
+	<url>http://api.openweathermap.org/data/2.5/weather?q=Kaulsdorf,de</url>
+	<url>http://api.openweathermap.org/data/2.5/weather?q=Edgware,uk</url>
+	<url>http://api.openweathermap.org/data/2.5/weather?q=Pevensey,uk</url>
+	<url>http://api.openweathermap.org/data/2.5/weather?q=Himeville,za</url>
+</urls>
+ 
